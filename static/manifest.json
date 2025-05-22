@@ -1,0 +1,15 @@
+{
+  "name": "Tải Video MXH",
+  "short_name": "Tải Video",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
